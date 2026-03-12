@@ -1,28 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Divyansh%20Kharnal&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI+for+Finance;Data+Science+%26+ML;CS+%40+Manipal+University+Jaipur" alt="Typing SVG"/>
-</div>
+## 👋 Hey, I am Divyansh
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyansh21k&color=00D4FF&style=flat-square&label=Profile+Views"/>
-  &nbsp;
-  <a href="https://linkedin.com/in/divyanshkharnal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:divyansh21.k@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</div>
-
-<br/>
-
----
-
-### 👨‍💻 About Me
-
-I'm a CS undergrad passionate about using **machine learning and data science to solve problems in finance** — from building intelligent risk systems to real-time market analytics and AI-powered financial tooling.
-
-I'm fascinated by the intersection of quantitative thinking and modern AI. I believe the most interesting problems in finance today are data problems — and I want to be at that frontier.
+Passionate AI & Data Science enthusiast currently pursuing B.Tech in Computer Science at Manipal University Jaipur. Experienced in building production-ready machine learning systems and data-driven applications. Dedicated to applying artificial intelligence and quantitative methods to solve complex problems in finance and beyond.
 
 ---
 
@@ -60,6 +42,14 @@ I'm fascinated by the intersection of quantitative thinking and modern AI. I bel
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Divyansh21k&color=00D4FF&style=flat-square&label=Profile+Views"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/divyanshkharnal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:divyansh21.k@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
