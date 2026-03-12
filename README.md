@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=120&section=header&text=Divyansh%20Kharnal&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Divyansh%20Kharnal&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=ML+%26+Backend+Engineer;Applying+AI+to+Finance+%26+Risk;CS+%40+Manipal+University+Jaipur" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI+for+Finance;Data+Science+%26+ML;CS+%40+Manipal+University+Jaipur" alt="Typing SVG"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyansh21k&color=C9A84C&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Divyansh21k&color=00D4FF&style=flat-square&label=Profile+Views"/>
   &nbsp;
   <a href="https://linkedin.com/in/divyanshkharnal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
@@ -20,17 +20,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a CS undergrad with a deep interest in applying **machine learning and data science to financial systems** — fraud detection, risk modelling, algorithmic signals, and real-time market analytics.
+I'm a CS undergrad passionate about using **machine learning and data science to solve problems in finance** — from building intelligent risk systems to real-time market analytics and AI-powered financial tooling.
 
-I'm drawn to problems where data has real monetary consequences. Whether it's catching fraudulent transactions before they clear, computing portfolio risk in real time, or building the infrastructure that makes financial AI production-ready — that's where I want to work.
-
-Currently building towards roles in **quantitative engineering, ML engineering, and fintech SWE** at firms like JPMorgan, Goldman Sachs, and similar.
-
-```
-Interest areas:  Fraud & Risk ML · Portfolio Analytics · Quantitative Signals · LLM in Finance
-Currently:       Open to SWE / ML internships (Summer 2025)
-Location:        Jaipur, India
-```
+I'm fascinated by the intersection of quantitative thinking and modern AI. I believe the most interesting problems in finance today are data problems — and I want to be at that frontier.
 
 ---
 
@@ -70,5 +62,5 @@ Location:        Jaipur, India
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
 </div>
