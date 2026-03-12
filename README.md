@@ -1,10 +1,9 @@
-## Hi there 👋
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=120&section=header&text=Divyansh%20Kharnal&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=C9A84C&center=true&vCenter=true&width=500&lines=ML+%26+Backend+Engineer;Building+production+AI+systems;CS+%40+Manipal+University+Jaipur" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=ML+%26+Backend+Engineer;Applying+AI+to+Finance+%26+Risk;CS+%40+Manipal+University+Jaipur" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -16,6 +15,22 @@
 </div>
 
 <br/>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a CS undergrad with a deep interest in applying **machine learning and data science to financial systems** — fraud detection, risk modelling, algorithmic signals, and real-time market analytics.
+
+I'm drawn to problems where data has real monetary consequences. Whether it's catching fraudulent transactions before they clear, computing portfolio risk in real time, or building the infrastructure that makes financial AI production-ready — that's where I want to work.
+
+Currently building towards roles in **quantitative engineering, ML engineering, and fintech SWE** at firms like JPMorgan, Goldman Sachs, and similar.
+
+```
+Interest areas:  Fraud & Risk ML · Portfolio Analytics · Quantitative Signals · LLM in Finance
+Currently:       Open to SWE / ML internships (Summer 2025)
+Location:        Jaipur, India
+```
 
 ---
 
@@ -54,33 +69,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh21k&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9A84C&icon_color=C9A84C&text_color=8892A4&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh21k&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9A84C&text_color=8892A4" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Divyansh21k&theme=dark&hide_border=true&background=0D1117&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" height="160"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=80&section=footer"/>
 </div>
-<!--
-**Divyansh21k/Divyansh21K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
